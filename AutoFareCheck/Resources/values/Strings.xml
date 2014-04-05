@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Get Distance</string>
+	<string name="FareLabel">Enter Distance</string>
+	<string name="app_name">AutoFareCheck</string>
+</resources>
